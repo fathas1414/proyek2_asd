@@ -1,6 +1,6 @@
 /**
  * Data satu mata kuliah (satu baris matakuliah.csv).
- * Dibuat oleh: Ilham
+ * Dibuat oleh: fathan
  */
 public class Matakuliah {
     private final String kode;
