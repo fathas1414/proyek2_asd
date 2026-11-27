@@ -9,7 +9,7 @@
  *      lanjutan  : MK yang terbuka setelah MK ini lulus (sisi keluar)
  *
  * Tidak memakai java.util sama sekali.
- * Dibuat oleh: Ilham
+ * Dibuat oleh: fathan
  */
 public class GrafPrasyarat {
 
@@ -58,7 +58,7 @@ public class GrafPrasyarat {
         return true;
     }
 
-    // ---------- Query (dipakai Fathan & Talitha) ----------
+    // ---------- Query (dipakai ilham & Talitha) ----------
 
     /** Cari MK berdasarkan kode. Return null jika tidak ada. */
     public Matakuliah getMK(String kode) {
