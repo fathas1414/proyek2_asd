@@ -1,7 +1,7 @@
 /**
  * Linked list buatan sendiri (tanpa java.util).
  * Elemen baru ditambahkan di BELAKANG, jadi urutan input terjaga.
- * Dibuat oleh: Ilham
+ * Dibuat oleh: fathan
  */
 public class DaftarTaut<T> {
 
