@@ -1,5 +1,5 @@
 /**
- * Uji cepat bagian Ilham. Jalankan: java UjiGraf
+ * Uji cepat bagian fathan. Jalankan: java UjiGraf
  * Semua baris harus berawalan "OK".
  */
 public class UjiGraf {
